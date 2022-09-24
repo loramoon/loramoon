@@ -7,4 +7,5 @@ I started this project as part of my Python education in SoftUni (Europe/Bulgari
 Skills: Agile, Waterflow, Jira, SQL, API, Postman, SOAPUI, Python
 
 🔭 I’m currently working on my Python education in SoftUni (Bulgaria/Europe)
+
 ⚡ Fun fact: I gave up cigarettes, computer games, and social networks... but I don't want to give up beer
