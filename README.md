@@ -1,19 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My nickname is Loramoon
+#### I am interested in artificial intelligence and machine learning, futurology, and neural networks
+![I am interested in artificial intelligence and machine learning, futurology, and neural networks](https://bernardmarr.com/wp-content/uploads/2021/12/Future-Developments-of-AI.jpg)
 
-- 🔭 I’m currently working on my Python education in SoftUni (Bulgaria/Europe)
-- ⚡ Fun fact: I gave up cigarettes, computer games, social networks... but I don't want to give up beer
+I started this project as part of my Python education in SoftUni (Europe/Bulgaria)
 
-<!--
-**loramoon/loramoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Agile, Waterflow, Jira, SQL, API, Postman, SOAPUI, Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on my Python education in SoftUni (Bulgaria/Europe)
+⚡ Fun fact: I gave up cigarettes, computer games, and social networks... but I don't want to give up beer
