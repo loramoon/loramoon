@@ -1,6 +1,6 @@
 ### Hi there 👋, My nickname is Loramoon
 #### I am interested in artificial intelligence and machine learning, futurology, and neural networks
-![I am interested in artificial intelligence and machine learning, futurology, and neural networks](https://bernardmarr.com/wp-content/uploads/2021/12/Future-Developments-of-AI.jpg)
+![I am interested in artificial intelligence and machine learning, futurology, and neural networks](https://media-exp1.licdn.com/dms/image/C5612AQH4wNEoCPNXGw/article-cover_image-shrink_600_2000/0/1603042799143?e=1669248000&v=beta&t=Ug1MpwSeKL0UGIhwmbF-0K16Lt_9tcKnMuIpEzLbhwA)
 
 I started this project as part of my Python education in SoftUni (Europe/Bulgaria)
 
