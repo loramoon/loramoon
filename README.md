@@ -1,7 +1,8 @@
 ### Hi there 👋, My nickname is Loramoon
 #### I am interested in artificial intelligence, machine learning, and finance. I started this project as part of my Python education in SoftUni (Europe/Bulgaria).
 
-![I am interested in artificial intelligence, machine learning, and finance](https://github.com/loramoon/Mini_Projects/blob/main/others/dalle.JPG?raw=true)
+![dalle](https://user-images.githubusercontent.com/112502847/200170252-2c23fc06-bca8-4227-bc02-cfd257cd9a23.JPG)
+
 
 ### Languages, Skills and Tools:
  
