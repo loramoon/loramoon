@@ -1,5 +1,6 @@
-### Hi there 👋, My nickname is Loramoon
-#### I am interested in artificial intelligence, machine learning, and finance. I started this project as part of my Python education in SoftUni (Europe/Bulgaria).
+### Violeta Atanasova
+#### With over 15 years of experience in business analysis, project management, and technical writing, I’ve honed my skills in delivering high-quality solutions that exceed client expectations. My passion for continuous learning and adapting to new challenges has been the cornerstone of my career, driving successful project outcomes and fostering strong team dynamics.
+
 
 ### Languages, Skills and Tools:
  
@@ -7,7 +8,7 @@
 
 #### Additional information:
 
-- 🔭 I’m currently working on my Python education in SoftUni (Bulgaria/Europe) 
+- 🔭 I’m currently working on my Machine Learning / Artificial intelligence education in SoftUni (Bulgaria/Europe) 
 - ⚡ Fun fact: I gave up cigarettes, computer games, and social networks... but I don't want to give up beer 
 
 
