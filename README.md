@@ -8,8 +8,7 @@
 
 #### Additional information:
 
-- 🔭 I’m currently working on my Machine Learning / Artificial intelligence education in SoftUni (Bulgaria/Europe) 
-- ⚡ Fun fact: I gave up cigarettes, computer games, and social networks... but I don't want to give up beer 
+- 🔭 Machine Learning / Artificial Intelligence 
 
 
 #### Connect with me: 
